@@ -1,0 +1,30 @@
+#uno{
+    text-align: center;
+    font-size: 100px;
+}
+
+#dos{
+    text-align: center;
+}
+
+#boton1{
+
+    text-align: center;
+    border-radius: 6px;
+    background-color: rgb(79, 116, 90);
+    color: rgb(192, 232, 255);
+}
+
+.foto{
+    width: 150px;
+    height: 150px;
+}
+
+.pie{
+    background-color: rgb(126, 91, 91);
+    position:fixed;
+    bottom: 0;
+    color: white ;
+    width: 100%;
+    line-height: 3;
+}
